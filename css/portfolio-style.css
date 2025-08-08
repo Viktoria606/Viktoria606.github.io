@@ -15,14 +15,14 @@ body {
     background-color: #DBEBFD;
 
     margin: 0;
-    padding: 40px;
+    padding: 80px;
 }
 
 .portfolio-container {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    max-width: 1214px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
